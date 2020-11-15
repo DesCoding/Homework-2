@@ -16,5 +16,7 @@ formated nav bar to be uniform on all pages and added links to navigate between 
 
 formated social media buttons to open in new tab so visitors will still be able to navigate the profile if they wish.
 
+https://descoding.github.io/ResponsivePortfolio/
+https://descoding.github.io/ResponsivePortfolio/index.html
 
 /*Please note, I attempted to add a screen shot of the finished page to this read me but was not able to paste it or drag/drop it.  Open to advice.*/
