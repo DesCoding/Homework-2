@@ -33,6 +33,6 @@ header nav {
 .foot {
 	text-align: center;
 }
-.btn btn-primary {
-	color: purple;
+.btn-primary {
+	background-color: purple;
 }

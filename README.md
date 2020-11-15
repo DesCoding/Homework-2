@@ -14,4 +14,7 @@ linked social media accounts.
 
 formated nav bar to be uniform on all pages and added links to navigate between pages.  Added a link to my name for ease in navigating back to profile with either About hyperlinke or name.
 
-/* Add Link here and screen shot here. */
+formated social media buttons to open in new tab so visitors will still be able to navigate the profile if they wish.
+
+
+/*Please note, I attempted to add a screen shot of the finished page to this read me but was not able to paste it or drag/drop it.  Open to advice.*/
