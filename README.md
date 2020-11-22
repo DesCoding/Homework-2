@@ -16,6 +16,6 @@ Formated social media buttons to open in new tab so visitors will still be able 
 
 ### Deployed Finished Product with Links in NavBar.
 Repo:  https://github.com/DesCoding/ResponsivePortfolio
-https://descoding.github.io/ResponsivePortfolio/index.html
+Site:  https://descoding.github.io/ResponsivePortfolio/index.html
 
 ![Media-Demo](Assets/Images/About Me.bmp.png)
