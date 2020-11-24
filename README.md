@@ -21,5 +21,5 @@ Repo:  https://github.com/DesCoding/ResponsivePortfolio
 
 Site:  https://descoding.github.io/ResponsivePortfolio/index.html
 
-![Media-Demo](https://github.com/DesCoding/ResponsivePortfolio/blob/main/Assets/AboutMe.png)
+![Media-Demo](https://github.com/DesCoding/ResponsivePortfolio/blob/main/Assets/Aboutme.png)
 
